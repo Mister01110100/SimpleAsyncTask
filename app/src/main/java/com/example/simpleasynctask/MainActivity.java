@@ -9,6 +9,8 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
     private static final String TEXT_STATE = "currentText";
 
+    //pour le commit
+
     private TextView mTextView;
 
     @Override
